@@ -8,7 +8,7 @@
 
 ## 1º SEMESTRE
 
-Banco de Dados 1 | Engenharia de Software | Lógica de Programação | Fundamentos de Engenharia
+Banco de Dados 1 | Engenharia de Software | Fundamentos de Engenharia
 
 ## 2º SEMESTRE
 
